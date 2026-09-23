@@ -31,6 +31,7 @@ Our first release adapts hand-drawn beetles into an auto-battling card game: eac
 | **Platform** | Web (browser) |
 | **Status** | In development, closed beta opening soon |
 | **Site** | [beetlegame.com](https://beetlegame.com/) |
+| **X** | [@BeetleGameCo](https://x.com/BeetleGameCo) |
 
 Collect beetles through pack openings, build six-member teams, and send them into automated battles built on an elemental advantage system: **Fire, Wind, Energy, Earth, Water**. Every card carries a signature skill, an affinity, and a battle history that persists across matches.
 
@@ -58,7 +59,7 @@ Beta access is invite-only. Apply at [beetleindustries.com](https://beetleindust
 
 Partnerships, press, and general inquiries: **[labs@beetleindustries.com](mailto:labs@beetleindustries.com)**
 
-Follow along on X: **[@beetleind](https://x.com/beetleind)**
+Follow along on X: **[@beetleind](https://x.com/beetleind)** (studio) · **[@BeetleGameCo](https://x.com/BeetleGameCo)** (Beetle Game)
 
 Logos, card art, and fact sheet are in the [press kit](https://beetleindustries.com/press.html).
 
